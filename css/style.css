@@ -1,0 +1,95 @@
+body {
+    background-color: #7CFC00;
+    background-image:url("http://localhost/project_1/image/background.jpg");
+}
+
+.main_title {
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    color: darkblue;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 200;
+}
+label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+  color:aqua;
+}
+
+input[type=text]
+{   
+    text-align: center;
+    width:40%;
+    height:50px;
+}
+.col-25
+{
+    text-align: center;
+}
+.col-75
+{
+    text-align: center;
+}
+button
+{
+    width:10%;
+    height: 30px;
+    color:black;
+    background-color: aqua;
+}
+.container
+{
+    margin:0px;
+    padding: 0px;
+}
+.table_container
+{
+    padding:10px;
+}
+h1
+{
+    text-align: center;
+    color:#7CFC00;
+    font-size: 30px;
+    font-style: normal;
+}
+table
+{
+    width:50%;
+    height:20%;
+}
+table, th, td
+{
+    border:2px solid;
+    text-align: center;
+}
+.center
+{
+    border-collapse: collapse;
+    width:40%;
+}
+.center td
+{
+    border:1px solid;
+    padding: 5px;
+}
+.center th
+{
+    padding-top: 10px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color:white;
+}
+.center
+{
+    margin-left: auto;
+  margin-right: auto;
+}
+.center tbody
+{
+    padding:2px;
+    background-color:#7CFC00 ;
+}
